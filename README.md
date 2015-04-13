@@ -2,7 +2,6 @@
 
 ## Maintainer Contact
 Sam Coursey 
-[Contact Us](helenclarko@gmail.com)
 
 ## Requirements
 * SilverStripe 3.1.*
