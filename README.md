@@ -12,9 +12,10 @@ Add NZ Post address lookup field to the checkout page, choosing an address from 
 
 ## Installation Instructions
 1. Place this directory in the root of your SilverStripe installation, rename the folder 'swipestripe-nzpostaddress'.
-2. Enter your NZPost Public api key into \templates\Includes\NzPostAddress.ss
-3. Swap out your OrderForm.ss page with the included \templates\Includes\OrderForm.ss OR add <% include NzPostAddress %> to your existing OrderForm.ss file.
-4. Visit yoursite.com/dev/build?flush=1 to rebuild the database.
+2. Get an NZPost API Key (https://www.nzpost.co.nz/business/developer-centre/tracking-api/get-a-tracking-api-key).
+3. Enter your NZPost Public api key into \templates\Includes\NzPostAddress.ss
+4. Swap out your OrderForm.ss page with the included \templates\Includes\OrderForm.ss OR add <% include NzPostAddress %> to your existing OrderForm.ss file.
+5. Visit yoursite.com/dev/build?flush=1 to rebuild the database.
 
 ## Usage Overview
 1. Process an order and fill out the NZPost address form fields.
