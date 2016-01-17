@@ -1,7 +1,7 @@
 {
 	"name": "swipestripe/swipestripe-nzpostaddress",
 	"description": "Module for nzpost address lookup in SwipeStripe.",
-	"homepage": "http://swipestripe.com",
+	"homepage": "https://github.com/helenclarko/silverstripe-swipestripe-nzpostaddress",
 	"license": "BSD-3-Clause",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "ecommerce", "e-commerce", "shop", "swipestripe", "swipe stripe", "addresses"],
