@@ -15,6 +15,7 @@
 	{
 		"silverstripe/framework": "~3.1",
 		"silverstripe/cms": "~3.1"
+		"silverstripe/payment": "3.0.x-dev"
 	},
 	"support": 
 	{
